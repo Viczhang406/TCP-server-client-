@@ -1,6 +1,6 @@
 import socket
 
-ip = "172.16.13.56"
+ip = "172.20.176.1"
 port = 1122
 max_connect = 2
 

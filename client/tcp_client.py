@@ -1,6 +1,6 @@
 import socket
 
-ip = "172.16.13.57"  #當前設備IP
+ip = "172.20.176.1"  #當前設備IP
 port = 1122
 
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
